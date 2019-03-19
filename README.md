@@ -22,3 +22,8 @@ The data is delimited using the pipe("|") character. On successful cache entry a
 - Add capability to post Images/ Vidoes
 - Add capability to post in background using broadcast receiver/Service & add timestamp for cache data.
 
+# Known bug
+- Resilience
+
+
+
