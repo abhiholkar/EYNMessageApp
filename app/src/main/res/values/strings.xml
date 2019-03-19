@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EYNMessageApp</string>
+    <string name="info_text">Please enter text and press SEND to Post</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="post_data">Post Data</string>
+    <string name="post_success_text">Data Post successful</string>
+    <string name="data_post_cached">Data Post Cached</string>
+    <string name="data_post_failed">Data Post Failed</string>
+    <string name="enter_text">Please enter the text</string>
+</resources>
