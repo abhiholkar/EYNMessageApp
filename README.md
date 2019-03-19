@@ -1,9 +1,8 @@
 # EYNMessageApp
 
-EYNMessageApp is for demo purpose. The app  expects user to write text on Editfield and then uses open URL "http://ptsv2.com/" and post(text) the data on server.
-The posted data can be viewed at :  " http://ptsv2.com/t/EYN/post ". On successful post app , show Toast message showing Post success.
-In case network is not available the data is cached using shared preferences and then posted when network is available. 
-The data is delimited using the pipe("|") character. On successful cache entry app shows Toast message showing Caching success.
+EYNMessageApp is for demo purpose. The app  expects user to write text on Editfield and then uses open URL "http://ptsv2.com/" and post(text) the data on server when "Post Data" button is pressed.
+The posted data can be viewed at :  " http://ptsv2.com/t/EYN ". On successful post app , show Toast message showing Post success.
+In case network is not available the data is cached using shared preferences and then posted when network is available & next "Post Data" action is attempted. The data is delimited using the pipe("|") character. On successful cache entry app shows Toast message showing Caching success.
 
 
 # Application Architecture.
